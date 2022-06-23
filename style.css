@@ -1,0 +1,114 @@
+
+#body1{
+    background-image: url(sfondo1.jpg);
+}
+
+a{
+ text-decoration:none;
+ color: white;
+}
+
+.containerind h1{
+    color: white;
+    text-align: center;
+    margin-top: 30rem;
+}
+
+.containerind .btn {
+    margin-top: 12rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 16px;
+    padding: 16px 30px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .containerind .btn:hover {
+    background-color: rgb(195, 27, 159);
+    color: white;
+  }
+
+
+  #body2{
+      background-image: url(sfondo2.jpg);
+  }
+
+
+  .containerus .box1{
+      width:100%;
+      display: flex;
+      color: white;
+  }
+
+  .containerus .box1 .image{
+      width:20%;
+      margin-right:2rem;
+      margin-left: 2rem;
+      margin-top: 2rem;
+      background-color: white;
+  }
+
+  .containerus .box1 img{
+      width:90%;
+      padding:0.9rem;
+  }
+
+  .containerus .box1 .intext{
+      width: 80%;
+      margin-top: 5rem;
+  }
+
+  .containerus .box1 .intext .fotop img{
+    width:60px;
+    height:60px;
+}
+
+  .containerus .box2 table {
+      width: 100%;
+      padding-left: 2rem;
+      margin-top: 5rem;
+      color: white;
+  }
+
+  .containerus .box2 table tr{
+      width: 100%;
+  }
+
+  
+
+  .containerus .box2 table tr .num{
+      width:1%;
+  }
+
+  .containerus .box2 table tr .foto{
+      width:2%;
+      height: 20%;
+  }
+
+.containerus .box2 table tr .foto img{
+      width:50px;
+      height:50px;
+  }
+  
+  .containerus .box2 table tr .titaut{
+      width:30%;
+      height: 20%;
+  }
+
+ 
+.containerus .footer{
+    width:100%;
+    margin-top: 4rem;
+    text-align: center;
+    color: white;
+    
+}
+
